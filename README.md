@@ -1,6 +1,6 @@
 <h2>Design Responsive NFT Portfolio Website Using HTML CSS JavaScript With Scroll Effect Part-1</h2>
 
-<a href='https://youtu.be/0oBAH0a4vRk' target='_blank'><h2>Watch This Video in YouTube</h2></a>
+<a href="https://youtu.be/0oBAH0a4vRk" target='_blank'><h2>Watch This Video in YouTube</h2></a>
 
 <a href="https://youtu.be/0oBAH0a4vRk" target='_blank'><img src="https://github.com/wptoday/Monteno-Part--1/blob/main/preview.png?raw=true" alt="Abstrak" border="0" max-width='50%' ></a>
 </br></br>
